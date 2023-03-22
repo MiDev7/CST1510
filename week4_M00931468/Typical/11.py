@@ -12,4 +12,4 @@ def main():
     inputNum = int(input("Enter the value of n: "))
     sumOfAllnum(inputNum)
 
-main()
+main() % 5

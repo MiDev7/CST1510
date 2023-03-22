@@ -9,4 +9,4 @@ for index in range(1, totalStudNum + 1):
         highestScore = studScore
         studentName = studName
     
-print(f"{studentName} has the highest score, that is{highestScore}")
+print(f"{studentName} has the highest score, that is {highestScore}")
