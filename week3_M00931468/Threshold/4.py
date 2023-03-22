@@ -5,6 +5,7 @@ def evenOrOdd(num):
     else:
         print(f'{num} is odd')
 
+
 def main():
     while True:
         try:

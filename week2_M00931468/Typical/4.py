@@ -12,6 +12,8 @@ revenue_per_year = normalRate * number_of_week_per_year
 
 expense_per_year = 0.5 * (number_of_week_per_year / 2)
 
+print(expense_per_year * 3)
+
 sumFirstYearRevenue = revenue_for_first_year - expense_per_year
 
 sumTwoLastYear = (revenue_per_year - expense_per_year) * 2

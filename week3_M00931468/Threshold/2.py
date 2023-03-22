@@ -2,6 +2,8 @@ import random
 
 number =random.randint(0,100)
 
+print(number)
+
 if number % 5 == 0:
     print('HiFive')
 
