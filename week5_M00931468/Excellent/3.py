@@ -129,7 +129,8 @@ Mass Converter:
 
 Choose the unit conversion you want from the option below:
     1.  kg/lb
-    2.  oz/g
+    2.  oz/g1
+
     3.  ft/m
 
 Enter you choice number:
