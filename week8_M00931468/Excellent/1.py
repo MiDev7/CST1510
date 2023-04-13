@@ -23,8 +23,8 @@ def main():
         else:
             break
     # print(binaryToDecimal(binary))
-
-    print(binaryToDecimal("10001"))
+    print(int(binary,2))
+    print(f'10001 in decimal is: {binaryToDecimal("10001")}')
 
 
 main()

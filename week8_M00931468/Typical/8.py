@@ -27,6 +27,7 @@ def count_characters(password):
 def main():
     passwords = ["P@ssw0rd!","Pyth0nRul3s!","Sn@k3yCod3!","2PyTh0n2Furi0us!","c0d3r$p0w3r!","3y3s0fPyTh0n!","M0ntYpYth0n!","B1t3ThePyth0n!","Pyth0nF@ng!","Pr0gramm1ngG3nius!"]
 
+    count_characters("P@#yn26at^&i5ve")
     for password in passwords:
         count_characters(password)
 

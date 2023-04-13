@@ -4,15 +4,13 @@ def DecimalToBinary(decimal):
     while True:
         remainder = decimal % 2
         decimal = decimal // 2
-        
-        
+
         if remainder != 0:
             binary+="1"
         elif  decimal == 0:
             break
         elif remainder == 0:
-            binary+="0" 
-        
+            binary+="0"   
 
     return binary[::-1]
 
@@ -30,6 +28,5 @@ def main():
     print(DecimalToBinary(decimal))
 
     print(DecimalToBinary(10))
-
 
 main()
