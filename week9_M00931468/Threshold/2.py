@@ -20,6 +20,7 @@ def capitalize(filename, new):
                     allLines.append(word)
         newtext = ' '.join(allLines)    
         final.writelines(newtext)
+    
                     
 
         
