@@ -44,10 +44,10 @@ class Fan:
 
     def __str__(self) -> str:
         if self.__state == True:
-            return f"The Fan is On, \nColour:{self.__colour} \nSpeed:{self.__speed} \nRadius:{self.__radius}"
+            return f"The Fan is On, \nColour:{self.__colour} \nSpeed:{self.__speed} \nRadius:{self.__radius} \n"
         
         if self.__state == False:
-            return f"The Fan is Off, \nColour:{self.__colour}   \nRadius:{self.__radius}"
+            return f"The Fan is Off, \nColour:{self.__colour}   \nRadius:{self.__radius} \n"
     
         
     
