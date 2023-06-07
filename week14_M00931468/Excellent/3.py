@@ -183,9 +183,24 @@ def main():
 
 
     # ------------------Part 3 ----------------------
-    
-    player1 = Player("Diantha",[deck[random.randint(0,33)] for index in range(17)] )
-    player2 = Player("Nemona",[deck[random.randint(0,33)] for index in range(17)])
+ 
+    deck1 = []
+    deck2 = []
+    amount_cards = 33
+    for index in range(17):
+        num1 = random.randint(0,amount_cards)
+        deck1.append(deck[num1]) 
+        deck.pop(num1)
+        amount_cards -= 1
+        num2 = random.randint(0,amount_cards)
+        deck2.append(deck[num2])
+        deck.pop(num2)
+        amount_cards -= 1
+
+
+
+    player1 = Player("Diantha", deck1 )
+    player2 = Player("Nemona",deck2)
 
     tprint(f"Player 1:  {player1.get_name()}")
     print(player1)

@@ -137,8 +137,8 @@ def main():
     deck = [alakazam,blastoise,chansey,charizard,clefairy,gyarados,hitmonchan,machamp,magneton,mewtwo,nidoking,ninetales,poliwrath,raichu,venusaur,zapdos,beedrill,dragonair,dugtrio,electabuzz,clefairyDoll,computerSearch,devolutionSpray,imposterProfessorOak,itemFinder,lass,pokemonBreeder,doubleColorlessEnergy,fightingEnergy,fireEnergy,grassEnergy,lightingEnergy,psychicEnergy,waterEnergy]
 
     # Printing all cards from the Deck
-    # for card in deck:
-    #     print(card)
+    for card in deck:
+        print(card)
 
     # Printing all Pokemon card in  the Deck
     tprint("Pokemon")
