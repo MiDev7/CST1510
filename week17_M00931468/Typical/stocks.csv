@@ -1,0 +1,96 @@
+ID,COMPANY NAME,CONSENSUS,DATE,TIME
+1,Apple,$1.18,Thursday Aug 3,4:30 PM ET
+2,Microsoft,$2.56,Tuesday Jul 25,4:05 PM ET
+3,Amazon.com,$0.34,Thursday Jul 27,4:00 PM ET
+4,Tesla,$0.70,Wednesday Jul 19,4:05 PM ET
+5,First Bancorp,$0.35,Tuesday Jul 25,7:00 AM ET
+6,Alphabet Cl C,$1.33,Tuesday Jul 25,4:15 PM ET
+7,Alphabet Cl A,$1.33,Tuesday Jul 25,4:00 PM ET
+8,Nvidia,$1.66,Wednesday Aug 23,4:20 PM ET
+9,Paypal,$0.90,Monday Aug 7,4:25 PM ET
+10,Netflix,$2.80,Tuesday Jul 18,4:00 PM ET
+11,Intel,($0.04),Thursday Jul 27,4:00 PM ET
+12,Adobe Systems,$3.79,Thursday Jun 15,4:05 PM ET
+13,Comcast Corp A,$1.00,Thursday Jul 27,7:00 AM ET
+14,Pepsico,$1.95,Thursday Jul 13,6:00 AM ET
+15,Cisco Systems,$0.95,Wednesday Aug 16,4:05 PM ET
+16,Broadcom,$9.38,Thursday Aug 31,4:15 PM ET
+17,Qualcomm,$1.34,Wednesday Aug 2,4:00 PM ET
+18,T-Mobile US,$1.71,Thursday Jul 27,4:00 PM ET
+19,Costco Wholesale,$4.63,Thursday Aug 24,4:15 PM ET
+20,Texas Instruments,$1.76,Tuesday Jul 25,4:00 PM ET
+21,Amgen,$4.46,Thursday Jul 27,4:00 PM ET
+22,Charter Communications,$7.79,Friday Jul 28,7:00 AM ET
+23,Starbucks,$0.96,Tuesday Aug 1,4:05 PM ET
+24,Adv Micro Devices,$0.40,Tuesday Aug 1,4:15 PM ET
+25,Intuit,$0.21,Tuesday Aug 22,4:00 PM ET
+26,Mercadolibre,$4.13,Wednesday Aug 2,4:00 PM ET
+27,Applied Materials,$1.73,Thursday Aug 17,4:00 PM ET
+28,Micron Technology,($1.71),Wednesday Jun 28,4:00 PM ET
+29,Intuitive Surg,$1.02,Tuesday Jul 18,4:05 PM ET
+30,Booking Holdings,$28.81,Thursday Aug 3,4:30 PM ET
+31,Gilead Sciences,$1.66,Thursday Jul 27,4:00 PM ET
+32,Jd.com Inc ADR,$0.56,Thursday Aug 10,5:15 AM ET
+33,Lam Research,$5.03,Wednesday Jul 19,4:05 PM ET
+34,Mondelez Intl,$0.69,Thursday Jul 27,4:05 PM ET
+35,Zoom Video Communications Cl A,$0.31,Monday Aug 21,4:05 PM ET
+36,Activision Blizzard,$0.79,Wednesday Jul 26,4:05 PM ET
+38,Baidu Inc ADR,$2.11,Tuesday Aug 15,4:00 AM ET
+39,Automatic Data Procs,$1.83,Wednesday Jul 26,7:00 AM ET
+40,CSX,$0.50,Thursday Jul 20,4:00 PM ET
+41,Autodesk,$1.02,Thursday Aug 24,4:00 PM ET
+42,Vertex Pharmaceutic,$3.48,Monday Jul 31,4:00 PM ET
+43,Illumina,$0.03,Tuesday Jul 25,4:05 PM ET
+44,Analog Devices,$2.53,Wednesday Aug 23,7:00 AM ET
+45,Regeneron Pharmaceuticals,$8.78,Thursday Aug 3,6:30 AM ET
+46,Moderna,($3.79),Thursday Aug 3,0:00 AM ET
+47,Pdd Holdings,$0.91,Friday Aug 25,6:30 AM ET
+48,Nxp Semiconductors,$2.90,Monday Jul 24,4:00 PM ET
+49,Docusign,$0.05,Thursday Sep 7,4:05 PM ET
+50,K L A-Tencor,$4.82,Wednesday Jul 26,4:05 PM ET
+51,Monster Beverage Cp,$0.40,Thursday Aug 3,4:15 PM ET
+52,Keurig Dr Pepper,$0.40,Thursday Jul 27,6:30 AM ET
+53,Lululemon Athletica,$2.52,Thursday Aug 31,4:05 PM ET
+54,Asml Holdings NY Reg ADR,$4.97,Wednesday Jul 19,1:00 AM ET
+55,Cognizant Tech Sol,$0.97,Wednesday Aug 2,4:00 PM ET
+56,Workday,$0.08,Thursday Aug 24,4:00 PM ET
+57,Electronic Arts,$0.60,Tuesday Aug 8,4:00 PM ET
+58,Align Technology,$1.65,Wednesday Jul 26,4:00 PM ET
+59,Idexx Laboratories,$2.43,Tuesday Aug 1,6:30 AM ET
+60,Exelon,$0.46,Wednesday Aug 2,6:50 AM ET
+62,Walgreens Boots Alliance,$1.08,Tuesday Jun 27,7:00 AM ET
+63,Synopsys,$1.92,Wednesday Aug 16,4:05 PM ET
+64,Peloton Interactive,($0.46),Thursday Aug 3,7:00 AM ET
+65,American Electric Power,$1.26,Thursday Aug 3,6:55 AM ET
+66,Ross Stores,$1.12,Thursday Aug 17,4:00 PM ET
+67,Kraft Heinz,$0.75,Wednesday Aug 2,7:00 AM ET
+68,Marriot Int Cl A,$2.17,Tuesday Aug 1,6:30 AM ET
+69,Microchip Technology,$1.57,Thursday Aug 3,4:15 PM ET
+70,Ebay,$0.76,Wednesday Jul 26,4:05 PM ET
+71,Cadence Design Sys,$0.92,Monday Jul 24,4:05 PM ET
+72,Netease Inc ADR,$1.19,Thursday Aug 24,3:30 AM ET
+73,Match Group,$0.46,Tuesday Aug 1,4:10 PM ET
+74,Dexcom,$0.22,Thursday Jul 27,4:00 PM ET
+75,Paccar,$2.12,Tuesday Jul 25,8:00 AM ET
+76,XCEL Energy,$0.63,Thursday Jul 27,6:00 AM ET
+77,Cintas,$3.19,Thursday Jul 13,8:30 AM ET
+78,O'Reilly Automotive,$9.97,Wednesday Jul 26,4:30 PM ET
+79,Seagen,($0.79),Thursday Jul 27,4:00 PM ET
+80,Ansys,$1.00,Wednesday Aug 2,4:30 PM ET
+81,Okta Inc Cl A,($0.70),Wednesday Aug 30,4:00 PM ET
+82,Verisk Analytics,$1.40,Wednesday Aug 2,Before the open
+83,Paychex,$0.98,Thursday Jun 29,8:30 AM ET
+84,Atlassian,($0.25),Thursday Aug 3,4:05 PM ET
+85,Splunk,($0.53),Wednesday Aug 23,4:05 PM ET
+86,Fastenal,$0.52,Thursday Jul 13,6:50 AM ET
+87,Copart,$0.59,Wednesday Aug 16,6:20 PM ET
+88,Skyworks Solutions,$1.43,Monday Aug 7,4:00 PM ET
+89,Dollar Tree,$0.87,Thursday Aug 24,7:30 AM ET
+90,Sirius XM,$0.08,Thursday Jul 27,7:00 AM ET
+91,Verisign,$1.70,Thursday Jul 27,4:05 PM ET
+92,Incyte,$0.73,Tuesday Aug 1,7:00 AM ET
+93,CDW,$2.26,Wednesday Aug 2,7:00 AM ET
+94,Check Point Software,$1.64,Monday Jul 31,5:00 AM ET
+95,Trip.com Group Ltd ADR,$0.22,Wednesday Sep 6,5:00 PM ET
+96,Fox Corp Cl A,$0.71,Tuesday Aug 8,8:00 AM ET
+97,Fox Corp Cl B,$0.00,Tuesday Aug 8,8:00 AM ET
