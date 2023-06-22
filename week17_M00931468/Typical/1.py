@@ -25,8 +25,8 @@ def stocks_scrape(index,extension):
             time = timebox.find('div', id='earningstime').text
             company_name = soup.find('div', id='compname').text
 
-            with open(f"{dir}stocks.csv","a") as file:
-                file.write(f"{index + 1},{company_name},{consensus},{day} {date},{time}\n")
+            with open(f"{dir}stocks_tuple.csv","a") as file:
+                file.write(f"\"{index + 1}\",\"{company_name}\",\"{consensus}\",\"{day} {date}\",\"{time}\"\n")
             
             print(company_name)
     except:
