@@ -18,7 +18,7 @@ class App(ctk.CTk):
         left = int((display_width - window_width) / 2)
         top = int((display_height - window_height) / 2)
 
-        self.bind("<Escape>", lambda event: self.quit())
+        self.bind("<Escape>", lambda event: self.quit())#This line
 
         self.geometry(f"{window_width}x{window_height}+{left}+{top}")
         self.resizable(False,False)
@@ -102,10 +102,7 @@ class AgeFrame(ctk.CTkFrame):
         self.age = age
         #layout
         self.rowconfigure(0, weight=1, uniform= 'b')
-        self.columnconfigure(0, weight= 1, uniform= 'b')
-        self.columnconfigure(1, weight= 1, uniform= 'b')
-        self.columnconfigure(2, weight= 1, uniform= 'b')
-        self.columnconfigure(3, weight= 1, uniform= 'b')
+        self.columnconfigure((0,1,2,3), weight= 1, uniform= 'b')
         
 
         #Widget
