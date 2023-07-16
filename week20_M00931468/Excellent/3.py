@@ -15,6 +15,8 @@ class Database:
         self.connection = None
         self.cursor = None
 
+        self.create_server_connection()
+
     def create_server_connection(self):
         try:
             self.connection = mysql.connector.connect(
@@ -98,7 +100,6 @@ SELECT fName, lName FROM Staff;
     """
 
     db = Database("localhost","root",PASSWORD,"bank")
-    db.create_server_connection()
     db.execute_query(create_table_query)
     db.execute_query(create_table_query_1)
     db.execute_query(insert_branches)
